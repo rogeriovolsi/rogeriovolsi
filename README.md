@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Rogério Volsi 🖖
 
-<!--
-**rogeriovolsi/rogeriovolsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Staff Engineer | Entusiasta de Open Source | Engenharia & GenIA**
 
-Here are some ideas to get you started:
+Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impacto da Inteligência Artificial Generativa. Acredito fortemente no poder do código aberto e tenho como missão compartilhar minhas experiências, ajudando a transformar o conhecimento técnico em algo acessível, organizado, versionado e amplamente reutilizável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 O que estou fazendo agora
+
+*   **Construindo o Mergeando:** Dedicando esforços para erguer esta comunidade de código aberto que atua como um verdadeiro centro de conhecimento técnico.
+*   **Explorando IA no Desenvolvimento:** Testando e validando práticas de desenvolvimento assistido por IA, agentes autônomos e fluxos de trabalho altamente colaborativos.
+*   **Criando Ferramentas para Devs:** Focado na criação de guias, modelos (templates) e manuais práticos para acelerar o dia a dia de outros desenvolvedores.
+*   **Fomentando a Educação:** Trabalhando para levar educação de qualidade aos desenvolvedores, equilibrando excelência técnica com desenvolvimento comportamental (soft skills).
+
+---
+
+## 🧠 Áreas de Interesse e Especialidade
+
+*   Engenharia e Arquitetura de Software
+*   Desenvolvimento Assistido por IA e Fluxos de Trabalho Agenticos
+*   Criação e Gestão de Comunidades Técnicas
+*   Cultura Open Source e Compartilhamento de Conhecimento
+
+---
+
+## 📫 Como se conectar comigo
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rogeriovolsi/))
