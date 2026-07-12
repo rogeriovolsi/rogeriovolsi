@@ -28,6 +28,6 @@ Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impact
 ## Como se conectar comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriovolsi/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rogeriovolsi.com/)
 
-
-Vida longa e próspera 🖖 !!!
+Vida longa e próspera 🖖
