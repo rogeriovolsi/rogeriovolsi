@@ -26,4 +26,4 @@ Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impact
 
 ## 📫 Como se conectar comigo
 
-[![LinkedIn]](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rogeriovolsi/))
+![LinkedIn](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rogeriovolsi/))
