@@ -6,7 +6,7 @@ Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impact
 
 ---
 
-## 🔭 O que estou fazendo agora
+## O que estou fazendo agora
 
 *   **Construindo o Mergeando:** Dedicando esforços para erguer esta comunidade de código aberto que atua como um verdadeiro centro de conhecimento técnico.
 *   **Explorando IA no Desenvolvimento:** Testando e validando práticas de desenvolvimento assistido por IA, agentes autônomos e fluxos de trabalho altamente colaborativos.
@@ -15,15 +15,19 @@ Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impact
 
 ---
 
-## 🧠 Áreas de Interesse e Especialidade
+## Áreas de Meu Interesse
 
 *   Engenharia e Arquitetura de Software
 *   Desenvolvimento Assistido por IA e Fluxos de Trabalho Agenticos
 *   Criação e Gestão de Comunidades Técnicas
 *   Cultura Open Source e Compartilhamento de Conhecimento
+*   Tecnologias no geral
 
 ---
 
-## 📫 Como se conectar comigo
+## Como se conectar comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriovolsi/)
+
+
+Vida longa e próspera 🖖 !!!
