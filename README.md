@@ -2,7 +2,7 @@
 
 **Senior Staff Engineer | Entusiasta de Open Source | Engenharia & GenIA**
 
-Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impacto da Inteligência Artificial Generativa. Acredito fortemente no poder do código aberto e tenho como missão compartilhar minhas experiências, ajudando a transformar o conhecimento técnico em algo acessível, organizado, versionado e amplamente reutilizável.
+Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impacto da Inteligência Artificial Generativa. Acredito fortemente no poder do código aberto e tenho como missão compartilhar minhas experiências, ajudando a transformar o conhecimento técnico em algo acessível para todos.
 
 ---
 
