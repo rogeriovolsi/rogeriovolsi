@@ -10,7 +10,6 @@ Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impact
 
 *   **Construindo o Mergeando:** Dedicando esforços para erguer esta comunidade de código aberto que atua como um verdadeiro centro de conhecimento técnico.
 *   **Explorando IA no Desenvolvimento:** Testando e validando práticas de desenvolvimento assistido por IA, agentes autônomos e fluxos de trabalho altamente colaborativos.
-*   **Criando Ferramentas para Devs:** Focado na criação de guias, modelos (templates) e manuais práticos para acelerar o dia a dia de outros desenvolvedores.
 *   **Fomentando a Educação:** Trabalhando para levar educação de qualidade aos desenvolvedores, equilibrando excelência técnica com desenvolvimento comportamental (soft skills).
 
 ---
