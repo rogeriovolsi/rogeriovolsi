@@ -17,8 +17,7 @@ Sou um entusiasta apaixonado por diversas áreas da tecnologia, incluindo softwa
 | Categoria | Tecnologias e Competências |
 | :--- | :--- |
 | **Inteligência Artificial** | Generative AI, Large-Language Models (LLMs), AI Principles |
-| **Cloud & Engenharia** | Amazon Web Services (AWS), Sistemas distribuídos, SOLID Express |
-| **Dados & Desenvolvimento** | Graph Data Modeling, JavaScript, IndexedDB |
+| **Cloud & Engenharia** | Amazon Web Services (AWS), Sistemas distribuídos |
 | **Liderança & Negócios** | Empreendedorismo, Criação de Novos Negócios, Gestão de TI |
 
 ## 🎓 Certificações de Destaque
