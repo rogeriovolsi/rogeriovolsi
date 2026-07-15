@@ -1,4 +1,4 @@
-# 👋 Olá, sou Rogério Volsi
+# 🖖 Olá, sou Rogério Volsi
 
 **Senior Staff Engineer | Tech Manager | Especialista em Arquitetura & Inteligência Artificial**
 
