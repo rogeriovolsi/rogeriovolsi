@@ -27,10 +27,12 @@ Sou um entusiasta apaixonado por diversas áreas da tecnologia, incluindo softwa
 
 ## 📫 Conecte-se comigo
 
-Aberto a conversas sobre inovação corporativa, arquitetura de software, adoção de IA generativa em escala ou até mesmo sobre aviação e eletrônica. 
+Aberto a conversas sobre inovação corporativa, arquitetura de software, adoção de IA generativa em escala ou até mesmo sobre aviação ou expoloração espacial.
 
 LinkedIn:
 https://www.linkedin.com/in/rogeriovolsi
 
 Site:
 www.rogeriovolsi.com.br
+
+Vida longa e próspera 🖖
