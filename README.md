@@ -1,32 +1,37 @@
-# Olá, eu sou o Rogério Volsi 🖖
+# 👋 Olá, sou Rogério Volsi
 
-**Senior Staff Engineer | Entusiasta de Open Source | Engenharia & GenIA**
+**Senior Staff Engineer | Tech Manager | Especialista em Arquitetura & Inteligência Artificial**
 
-Sou apaixonado por engenharia de software, arquitetura de sistemas e pelo impacto da Inteligência Artificial Generativa. Acredito fortemente no poder do código aberto e tenho como missão compartilhar minhas experiências, ajudando a transformar o conhecimento técnico em algo acessível para todos.
+Sou um entusiasta apaixonado por diversas áreas da tecnologia, incluindo software, aviação, exploração espacial, inteligência artificial, marcenaria e eletrônica. Meu objetivo é integrar esses conhecimentos diversificados no dia a dia para inovar e agregar valor significativo aos projetos em que atuo.
 
----
+## 🚀 Sobre Mim
 
-## O que estou fazendo agora
+* Atualmente atuo como Senior Staff Engineer (Especialista Engenharia TI II) no Itaú Unibanco, localizado em São Paulo, Brasil.
+* Construí uma sólida trajetória de mais de 10 anos no icarros Itaú, onde evoluí de Analista de Sistemas a Tech Manager, coordenando equipes e liderando inovações tecnológicas.
+* Lidero ativamente projetos de modernização, incluindo análise e desenvolvimento de sistemas utilizando cloud computing com a Amazon Web Services (AWS).
+* Minha base acadêmica inclui Processamento de Dados pela Universidade Presbiteriana Mackenzie e um MBA em Cyber Security pela FIAP.
+* Tenho um forte perfil de liderança técnica, focado em resiliência, visão sistêmica, mentoria de desenvolvedores e entregas de alto impacto em arquiteturas complexas.
 
-*   **Construindo o Mergeando:** Dedicando esforços para erguer esta comunidade de código aberto que atua como um verdadeiro centro de conhecimento técnico.
-*   **Explorando IA no Desenvolvimento:** Testando e validando práticas de desenvolvimento assistido por IA, agentes autônomos e fluxos de trabalho altamente colaborativos.
-*   **Fomentando a Educação:** Trabalhando para levar educação de qualidade aos desenvolvedores, equilibrando excelência técnica com desenvolvimento comportamental (soft skills).
+## 🛠️ Stack Tecnológico e Especialidades
 
----
+| Categoria | Tecnologias e Competências |
+| :--- | :--- |
+| **Inteligência Artificial** | Generative AI, Large-Language Models (LLMs), AI Principles |
+| **Cloud & Engenharia** | Amazon Web Services (AWS), Sistemas distribuídos, SOLID Express |
+| **Dados & Desenvolvimento** | Graph Data Modeling, JavaScript, IndexedDB |
+| **Liderança & Negócios** | Empreendedorismo, Criação de Novos Negócios, Gestão de TI |
 
-## Áreas de Meu Interesse
+## 🎓 Certificações de Destaque
 
-*   Engenharia e Arquitetura de Software
-*   Desenvolvimento Assistido por IA e Fluxos de Trabalho Agenticos
-*   Criação e Gestão de Comunidades Técnicas
-*   Cultura Open Source e Compartilhamento de Conhecimento
-*   Tecnologias no geral
+* AWS Certified
+* Graph Data Modeling Fundamentals
 
----
+## 📫 Conecte-se comigo
 
-## Como se conectar comigo
+Aberto a conversas sobre inovação corporativa, arquitetura de software, adoção de IA generativa em escala ou até mesmo sobre aviação e eletrônica. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeriovolsi/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rogeriovolsi.com/)
+LinkedIn:
+https://www.linkedin.com/in/rogeriovolsi
 
-Vida longa e próspera 🖖
+Site:
+www.rogeriovolsi.com.br
