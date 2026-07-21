@@ -8,6 +8,7 @@ Sou um entusiasta apaixonado por diversas áreas da tecnologia, incluindo softwa
 Atualmente atuo como Senior Staff Engineer (Especialista Engenharia TI II) no Itaú Unibanco, em São Paulo, Brasil, liderando iniciativas estratégicas de engenharia de software e adoção de IA Generativa.
 
 Sobre mim:
+
 📈 Trajetória: Mais de 10 anos de experiência no ecossistema icarros Itaú, evoluindo de Analista de Sistemas a Tech Manager. Experiência robusta na liderança de equipes, gestão de tecnologia e entrega de valor para o negócio.
 
 🛠️ Arquitetura & Cloud: Liderança ativa em projetos de modernização de sistemas distribuídos complexos, utilizando Cloud Computing com a Amazon Web Services (AWS), microsserviços e práticas como DDD e Arquitetura Hexagonal.
