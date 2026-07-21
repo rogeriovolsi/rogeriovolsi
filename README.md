@@ -9,11 +9,17 @@ Atualmente atuo como Senior Staff Engineer (Especialista Engenharia TI II) no It
 
 Sobre mim:
 📈 Trajetória: Mais de 10 anos de experiência no ecossistema icarros Itaú, evoluindo de Analista de Sistemas a Tech Manager. Experiência robusta na liderança de equipes, gestão de tecnologia e entrega de valor para o negócio.
+
 🛠️ Arquitetura & Cloud: Liderança ativa em projetos de modernização de sistemas distribuídos complexos, utilizando Cloud Computing com a Amazon Web Services (AWS), microsserviços e práticas como DDD e Arquitetura Hexagonal.
+
 🧠 Inteligência Artificial & Dados: Focado na aplicação prática de Generative AI, Large Language Models (LLMs) e liderança baseada em dados (Data & Analytics).
+
 👥 Liderança Técnica: Perfil focado em resiliência, visão sistêmica, governança e mentoria de desenvolvedores para entregas de alto impacto.
+
 🎓 Background: Bacharel em Processamento de Dados (Mackenzie), MBA em Cyber Security (FIAP) e Extensão em Empreendedorismo (FGV).
+
 💻 Entusiasta multidisciplinar: software, aviação, exploração espacial, eletrônica e marcenaria. Acredito que a inovação surge da combinação de diferentes áreas do conhecimento.
+
 
 ## 🛠️ Stack Tecnológico e Especialidades
 
